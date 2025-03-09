@@ -1,0 +1,3 @@
+Mes recherches portent sur:
+1- le PDO
+2- les sessions
